@@ -23,7 +23,11 @@ sites:
   - name: Login DEV-QA
     url: https://dev-qa.la-razon.com/login
     icon: https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg
-    
+    - name: iPAPER Flip
+    url: https://ipaper.la-razon.com
+   - name: PAPER Sisetic (new)
+    url: https://paper.la-razon.com
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
