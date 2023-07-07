@@ -3,11 +3,27 @@ owner: la-razonbo # Your GitHub organization or username, where this repository 
 repo: radar # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-
+  - name: La Razón
+    url: https://www.la-razon.com
+    icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg
+  - name: Login LR
+    url: https://www.la-razon.com/login
+    icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg
+  - name: El Loro de Oro
+    url: https://lorodeoro.la-razon.com
+    icon: https://lorodeoro.la-razon.com/img/logo/favicon.png
+  - name: El Loro (ADMIN)
+    url: https://lorodeoro.la-razon.com/admin
+    icon: https://lorodeoro.la-razon.com/img/logo/favicon.png
+  - name: LR Store
+    url: https://la-razon.ventas.com.bo
+  - name: LR DEV-QA
+    url: https://dev-qa.la-razon.com
+    icon: https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg
+  - name: Login DEV-QA
+    url: https://dev-qa.la-razon.com/login
+    icon: https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
