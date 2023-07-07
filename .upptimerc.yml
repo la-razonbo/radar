@@ -82,6 +82,7 @@ i18n:
   sevelDayResponseTime: Tiempo de respuesta de 7 días
   responseTimeMs: Tiempo de respuesta (ms)
 # TeroRERO desactiva   up: Arriba
+  up: "✅ Up"
 # TeroRERO desactiva  down: Abajo
 # TeroRERO desactiva  degraded: Degradado
 # TeroRERO INICIO
