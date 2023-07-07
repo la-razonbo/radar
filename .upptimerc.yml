@@ -19,14 +19,16 @@ sites:
     url: https://la-razon.ventas.com.bo
   - name: LR DEV-QA
     url: https://dev-qa.la-razon.com
-    icon: https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg
+    icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg
   - name: Login DEV-QA
     url: https://dev-qa.la-razon.com/login
-    icon: https://cdn.jsdelivr.net/gh/la-razonbo/udweb@master/assets/lr-icon.svg
+    icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg
   - name: iPAPER Flip
     url: https://ipaper.la-razon.com
+    icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/flip-icon.png
   - name: PAPER Sisetic (new)
     url: https://paper.la-razon.com
+    icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/flip-icon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
