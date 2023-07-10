@@ -94,19 +94,19 @@
     "url": "https://dev-qa.la-razon.com",
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg",
     "slug": "lr-dev-qa",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 176,
-    "timeDay": 154,
-    "timeWeek": 176,
-    "timeMonth": 176,
-    "timeYear": 176,
+    "status": "up",
+    "uptime": "97.03%",
+    "uptimeDay": "90.71%",
+    "uptimeWeek": "97.03%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "97.03%",
+    "time": 174,
+    "timeDay": 156,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2023-07-10": 0
+      "2023-07-10": 134
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://dev-qa.la-razon.com/login",
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg",
     "slug": "login-dev-qa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 77,
-    "timeDay": 76,
-    "timeWeek": 77,
-    "timeMonth": 77,
-    "timeYear": 77,
+    "status": "up",
+    "uptime": "97.03%",
+    "uptimeDay": "90.71%",
+    "uptimeWeek": "97.03%",
+    "uptimeMonth": "97.03%",
+    "uptimeYear": "97.03%",
+    "time": 74,
+    "timeDay": 66,
+    "timeWeek": 74,
+    "timeMonth": 74,
+    "timeYear": 74,
     "dailyMinutesDown": {
-      "2023-07-10": 0
+      "2023-07-10": 134
     }
   },
   {
