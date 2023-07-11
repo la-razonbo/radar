@@ -82,6 +82,7 @@ i18n:
   responseTimeMs: Tiempo de respuesta (ms)
 # TeroRERO desactiva   up: Arriba
   up: "✅ Up"
+  down: "🆘 Down"
 # TeroRERO desactiva  down: Abajo
 # TeroRERO desactiva  degraded: Degradado
 # TeroRERO INICIO
