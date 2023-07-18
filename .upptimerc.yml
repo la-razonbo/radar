@@ -23,7 +23,7 @@ sites:
   - name: Login DEV-QA
     url: https://dev-qa.la-razon.com/login
     icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg
-  - name: iPAPER Flip
+  - name: iPAPER newspaper
     url: https://ipaper.la-razon.com
     icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/flip-icon.png
   - name: PAPER Sisetic (new)
