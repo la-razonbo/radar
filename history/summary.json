@@ -5,15 +5,15 @@
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg",
     "slug": "la-razon",
     "status": "down",
-    "uptime": "2.17%",
+    "uptime": "2.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.75%",
-    "uptimeMonth": "16.67%",
-    "uptimeYear": "1.27%",
-    "time": 95,
-    "timeDay": 92,
-    "timeWeek": 108,
-    "timeMonth": 99,
+    "uptimeWeek": "95.01%",
+    "uptimeMonth": "19.96%",
+    "uptimeYear": "1.55%",
+    "time": 96,
+    "timeDay": 114,
+    "timeWeek": 115,
+    "timeMonth": 98,
     "timeYear": 92,
     "dailyMinutesDown": {
       "2024-08-27": 536,
@@ -373,8 +373,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   },
   {
@@ -383,13 +382,13 @@
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg",
     "slug": "login-lr",
     "status": "down",
-    "uptime": "2.17%",
+    "uptime": "2.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.75%",
-    "uptimeMonth": "16.67%",
-    "uptimeYear": "1.27%",
+    "uptimeWeek": "95.01%",
+    "uptimeMonth": "19.96%",
+    "uptimeYear": "1.55%",
     "time": 18,
-    "timeDay": 11,
+    "timeDay": 10,
     "timeWeek": 14,
     "timeMonth": 11,
     "timeYear": 12,
@@ -751,8 +750,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   },
   {
@@ -761,15 +759,15 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-de-oro",
     "status": "down",
-    "uptime": "2.17%",
+    "uptime": "2.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.75%",
-    "uptimeMonth": "16.67%",
-    "uptimeYear": "1.27%",
+    "uptimeWeek": "95.01%",
+    "uptimeMonth": "19.96%",
+    "uptimeYear": "1.55%",
     "time": 115,
-    "timeDay": 94,
+    "timeDay": 115,
     "timeWeek": 106,
-    "timeMonth": 96,
+    "timeMonth": 97,
     "timeYear": 89,
     "dailyMinutesDown": {
       "2024-08-27": 536,
@@ -1129,8 +1127,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   },
   {
@@ -1139,16 +1136,16 @@
     "icon": "https://lorodeoro.la-razon.com/img/logo/favicon.png",
     "slug": "el-loro-admin",
     "status": "down",
-    "uptime": "2.17%",
+    "uptime": "2.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.75%",
-    "uptimeMonth": "16.67%",
-    "uptimeYear": "1.27%",
+    "uptimeWeek": "95.01%",
+    "uptimeMonth": "19.96%",
+    "uptimeYear": "1.55%",
     "time": 41,
     "timeDay": 13,
-    "timeWeek": 12,
-    "timeMonth": 12,
-    "timeYear": 12,
+    "timeWeek": 13,
+    "timeMonth": 11,
+    "timeYear": 13,
     "dailyMinutesDown": {
       "2024-08-27": 536,
       "2024-08-26": 1440,
@@ -1507,8 +1504,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   },
   {
@@ -1517,16 +1513,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/la-razon.ventas.com.bo.ico",
     "slug": "lr-store",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.66%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "98.01%",
-    "time": 1982,
-    "timeDay": 1314,
-    "timeWeek": 1503,
-    "timeMonth": 1783,
-    "timeYear": 1909,
+    "time": 1981,
+    "timeDay": 1456,
+    "timeWeek": 1433,
+    "timeMonth": 1773,
+    "timeYear": 1904,
     "dailyMinutesDown": {
       "2024-08-30": 438,
       "2024-08-23": 38,
@@ -1550,14 +1546,14 @@
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg",
     "slug": "lr-dev-qa",
     "status": "down",
-    "uptime": "2.14%",
+    "uptime": "2.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.75%",
-    "uptimeMonth": "16.67%",
-    "uptimeYear": "1.27%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "19.96%",
+    "uptimeYear": "1.55%",
     "time": 100,
-    "timeDay": 143,
-    "timeWeek": 105,
+    "timeDay": 90,
+    "timeWeek": 107,
     "timeMonth": 101,
     "timeYear": 86,
     "dailyMinutesDown": {
@@ -1918,8 +1914,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   },
   {
@@ -1928,16 +1923,16 @@
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg",
     "slug": "login-dev-qa",
     "status": "down",
-    "uptime": "2.14%",
+    "uptime": "2.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.75%",
-    "uptimeMonth": "16.67%",
-    "uptimeYear": "1.27%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "19.96%",
+    "uptimeYear": "1.55%",
     "time": 16,
-    "timeDay": 17,
+    "timeDay": 10,
     "timeWeek": 14,
-    "timeMonth": 12,
-    "timeYear": 12,
+    "timeMonth": 11,
+    "timeYear": 13,
     "dailyMinutesDown": {
       "2024-08-27": 536,
       "2024-08-26": 1440,
@@ -2296,8 +2291,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   },
   {
@@ -2306,15 +2300,15 @@
     "icon": "https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/flip-icon.png",
     "slug": "paper-sisetic-new",
     "status": "down",
-    "uptime": "2.17%",
+    "uptime": "2.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.75%",
-    "uptimeMonth": "16.67%",
-    "uptimeYear": "1.27%",
+    "uptimeWeek": "95.02%",
+    "uptimeMonth": "19.96%",
+    "uptimeYear": "1.55%",
     "time": 91,
-    "timeDay": 267,
-    "timeWeek": 131,
-    "timeMonth": 100,
+    "timeDay": 100,
+    "timeWeek": 128,
+    "timeMonth": 98,
     "timeYear": 87,
     "dailyMinutesDown": {
       "2024-08-27": 536,
@@ -2674,8 +2668,7 @@
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
-      "2023-09-05": 1440,
-      "2023-09-04": 1440
+      "2023-09-05": 1440
     }
   }
 ]
