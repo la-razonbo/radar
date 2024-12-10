@@ -17,9 +17,9 @@ sites:
     icon: https://lorodeoro.la-razon.com/img/logo/favicon.png
   - name: LR Store
     url: https://la-razon.ventas.com.bo
-  - name: LR DEV-QA
-    url: https://dev-qa.la-razon.com
-    icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg
+  - name: DEVINCONDE
+    url: https://www.devinconde.com
+  #  icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg
   - name: Login DEV-QA
     url: https://dev-qa.la-razon.com/login
     icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg
