@@ -17,12 +17,11 @@ sites:
     icon: https://lorodeoro.la-razon.com/img/logo/favicon.png
   - name: LR Store
     url: https://la-razon.ventas.com.bo
-  - name: DEVINCONDE
-    url: https://www.devinconde.com
+  - name: CSBP - PORTAL
+    url: https://portal.csbp.com.bo
   #  icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg
-  - name: Login DEV-QA
-    url: https://dev-qa.la-razon.com/login
-    icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg
+  - name: CSBP - WWW
+    url: https://www.csbp.com.bo
   - name: PAPER Sisetic (new)
     url: https://ipaper.la-razon.com
     icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/flip-icon.png
@@ -38,7 +37,7 @@ status-website:
   favicon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg
 # TeroRERO themes : Available themes are light, dark, night or ocean.
   theme: light
-  introMessage: © Derechos Reservados  2023
+  introMessage: © Derechos Reservados  2025
   navbar:
     - title: RADAR
       href: /
