@@ -22,6 +22,10 @@ sites:
   #  icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/lr-icon.svg
   - name: CSBP - WWW
     url: https://www.csbp.com.bo
+  - name: CSBP - ASEGURADOS
+    url: https://asegurados.csbp.com.bo
+  - name: CSBP - CITAS
+    url: https://citas.csbp.com.bo
 #   - name: PAPER Sisetic (new)
 #     url: https://ipaper.la-razon.com
 #     icon: https://cdn.jsdelivr.net/gh/la-razonbo/radar@master/assets/flip-icon.png
