@@ -4,18 +4,20 @@
     "url": "https://portal.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "csbp-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1904,
-    "timeDay": 1755,
-    "timeWeek": 1894,
-    "timeMonth": 1904,
-    "timeYear": 1904,
-    "dailyMinutesDown": {}
+    "time": 1860,
+    "timeDay": 1365,
+    "timeWeek": 1779,
+    "timeMonth": 1860,
+    "timeYear": 1860,
+    "dailyMinutesDown": {
+      "2025-01-24": 0
+    }
   },
   {
     "name": "CSBP - WWW",
