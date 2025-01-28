@@ -22,19 +22,19 @@
     "url": "https://www.csbp.com.bo",
     "icon": "https://asegurados.csbp.com.bo/assets/img/favicon/favicon.png",
     "slug": "csbp-www",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 963,
-    "timeWeek": 675,
-    "timeMonth": 632,
-    "timeYear": 632,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1008,
+    "timeDay": 5499,
+    "timeWeek": 1845,
+    "timeMonth": 1008,
+    "timeYear": 1008,
     "dailyMinutesDown": {
-      "2025-01-27": 0
+      "2025-01-27": 12
     }
   },
   {
@@ -42,10 +42,10 @@
     "url": "https://asegurados.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/asegurados.csbp.com.bo.ico",
     "slug": "csbp-asegurados",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
@@ -53,16 +53,19 @@
     "timeWeek": 403,
     "timeMonth": 401,
     "timeYear": 401,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 0,
+      "2025-01-27": 0
+    }
   },
   {
     "name": "CSBP - CITAS",
     "url": "https://citas.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "csbp-citas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +74,8 @@
     "timeWeek": 409,
     "timeMonth": 387,
     "timeYear": 387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   }
 ]
