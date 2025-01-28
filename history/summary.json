@@ -4,19 +4,19 @@
     "url": "https://portal.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/portal.csbp.com.bo.ico",
     "slug": "csbp-portal",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1963,
-    "timeDay": 2786,
-    "timeWeek": 2015,
-    "timeMonth": 1963,
-    "timeYear": 1963,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1942,
+    "timeDay": 2316,
+    "timeWeek": 1957,
+    "timeMonth": 1942,
+    "timeYear": 1942,
     "dailyMinutesDown": {
-      "2025-01-28": 20
+      "2025-01-28": 36
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://asegurados.csbp.com.bo/assets/img/favicon/favicon.png",
     "slug": "csbp-www",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "94.97%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.68%",
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 1006,
     "timeDay": 3242,
     "timeWeek": 1673,
     "timeMonth": 1006,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2025-01-28": 73
+      "2025-01-28": 90
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "https://citas.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "csbp-citas",
-    "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "85.66%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
-    "time": 409,
-    "timeDay": 603,
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "84.45%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
+    "time": 411,
+    "timeDay": 568,
     "timeWeek": 463,
-    "timeMonth": 409,
-    "timeYear": 409,
+    "timeMonth": 411,
+    "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-01-28": 206
+      "2025-01-28": 223
     }
   }
 ]
