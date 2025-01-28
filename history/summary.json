@@ -22,19 +22,19 @@
     "url": "https://www.csbp.com.bo",
     "icon": "https://asegurados.csbp.com.bo/assets/img/favicon/favicon.png",
     "slug": "csbp-www",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1008,
-    "timeDay": 5499,
-    "timeWeek": 1845,
-    "timeMonth": 1008,
-    "timeYear": 1008,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1028,
+    "timeDay": 4172,
+    "timeWeek": 1808,
+    "timeMonth": 1028,
+    "timeYear": 1028,
     "dailyMinutesDown": {
-      "2025-01-28": 1
+      "2025-01-28": 50
     }
   },
   {
@@ -64,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "csbp-citas",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "92.46%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.43%",
+    "uptimeDay": "88.97%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 387,
     "timeDay": 507,
     "timeWeek": 409,
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-01-28": 109
+      "2025-01-28": 159
     }
   }
 ]
