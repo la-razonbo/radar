@@ -68,9 +68,9 @@
     "url": "https://citas.csbp.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/citas.csbp.com.bo.ico",
     "slug": "csbp-citas",
-    "status": "up",
+    "status": "down",
     "uptime": "97.54%",
-    "uptimeDay": "63.95%",
+    "uptimeDay": "63.91%",
     "uptimeWeek": "92.80%",
     "uptimeMonth": "97.54%",
     "uptimeYear": "97.54%",
@@ -80,7 +80,7 @@
     "timeMonth": 749,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2025-01-29": 241,
+      "2025-01-29": 242,
       "2025-01-28": 484
     }
   }
